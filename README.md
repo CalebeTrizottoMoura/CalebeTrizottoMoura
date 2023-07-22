@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Calebe</h1>
-<h3 align="center">Engenharia de Software | C++ | Back-end | Programador | Desenvolvimento | Curitiba - Brasil</h3>
+<h3 align="center">Engenharia de Software | C++ | Back-end | Programador | Desenvolvimento | Brasil</h3>
 
-- 🌱 Atualmente estou aprendendo **C++, Python, JavaScript, MySQL...**
+- 🌱 Atualmente estou aprendendo **C++, Python, JavaScript, MySQL**
 
 - 📫 Como me contatar **contatocalebemoura@gmail.com**
 
