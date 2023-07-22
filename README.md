@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to my GitHub profile!</h1>
 
-- 👋 Hello, my name is Caleb Moura.
+- 👋 Hello, my name is Calebe Moura.
 
 - 👀 I'm interested in learning from the Git community.
 
